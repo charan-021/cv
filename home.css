@@ -1,0 +1,100 @@
+    body{
+  text-align: center;
+  background-color: #ffffff;
+  font-size: 100%;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #55d5ff 6px;
+    border-bottom: none;
+    width: 7%;
+    margin: 100px auto;
+}
+
+
+.upper_container{
+  background-color: #EEFFFC;
+  margin: 0em;
+}
+#welcome{
+  font-family: 'Sacramento', cursive;
+  color: #A1FFEC;
+  font-size: 4rem;
+  margin-top: 0rem;
+}
+
+
+
+
+
+
+.middel_container{
+
+}
+#profile_img{
+  border-radius: 50%;
+  width: 12.5rem;
+  height: 12.5rem;
+}
+.hello{
+  font-family: 'Montserrat', sans-serif;
+  color: #293462;
+}
+.info{
+  margin: auto;
+  width: 75%;
+  font-family: 'Merriweather', serif;
+}
+.my_skil_head{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #293462;
+}
+.skil_row{
+  margin: 6rem auto 6rem auto;
+  width: 75%;
+  text-align: left;
+}
+.python_img, .c_img, .mysql_img, .html_img, .css_img{
+  border-radius: 50%;
+  width: 25%;
+}
+.python_h2, .c_h2, .mysql_h2, .html_h2, .css_h2{
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  color: #FF731D;
+}
+
+.python_mat, .c_mat, .mysql_mat, .html_mat, .css_mat{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.python_img, .mysql_img, .css_img{
+  float: left;
+  margin-right: 3rem;
+}
+.c_img, .html_img{
+  float: right;
+  margin-left: 3rem;
+}
+
+
+
+
+
+
+.lower_container{
+    margin: 0em;
+    padding: 50px 0 20px;
+    background-color: #15e0ff29
+}
+.cont_pages{
+    color: #0081ff
+    text-decoration: none;
+}
+.cont_pages:hover{
+    colour:#0081ff2d
+}
