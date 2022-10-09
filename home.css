@@ -112,6 +112,7 @@ hr{
 .cont_pages{
     color: #00E4AD;
     text-decoration: none;
+    margin: 10px 10px;
 }
 
 .cont_pages:hover {
@@ -119,5 +120,5 @@ hr{
 }
 .copyrigth{
   margin: 18px auto 0 auto;
-  font-size: 10px;
+  font-size: 0.75rem;
 }
